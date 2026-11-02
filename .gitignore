@@ -1,1 +1,13 @@
 .pio/
+
+# Dataset and experiment artifacts
+datasets/
+data/
+checkpoints/
+weights/
+*.pt
+*.pth
+*.ckpt
+
+# Notebook-generated state
+.ipynb_checkpoints/
